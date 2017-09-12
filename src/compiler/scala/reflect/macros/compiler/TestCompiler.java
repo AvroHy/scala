@@ -1,8 +1,5 @@
 package scala.reflect.macros.compiler;
 
 public class TestCompiler {
-
-    //在github上我也将之前的删掉，并追加这句
-
-    //为什么本地提交没显示
+    //全部删除，重新定义
 }
